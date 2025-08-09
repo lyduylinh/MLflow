@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MSE/DevOps%2C%20DataOps%2C%20MLOps/Final%20Project%20MLOps/mlruns/0/971d361cd5b046a6b1fc5e31014b68c6/artifacts
+end_time: 1754536400382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 971d361cd5b046a6b1fc5e31014b68c6
+run_name: receptive-ant-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754536390466
+status: 3
+tags: []
+user_id: HP

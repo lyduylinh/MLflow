@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MSE/DevOps%2C%20DataOps%2C%20MLOps/Final%20Project%20MLOps/mlruns/0/fdfcc3b83b6d497bb7146c9553491e8f/artifacts
+end_time: 1754485359626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdfcc3b83b6d497bb7146c9553491e8f
+run_name: resilient-swan-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754485355730
+status: 3
+tags: []
+user_id: HP

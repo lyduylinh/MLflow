@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MSE/DevOps%2C%20DataOps%2C%20MLOps/Final%20Project%20MLOps/mlruns/0/04a9c5083f8a4711b4a0929ac4c44f39/artifacts
+end_time: 1754485355725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04a9c5083f8a4711b4a0929ac4c44f39
+run_name: crawling-cow-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754485351905
+status: 3
+tags: []
+user_id: HP

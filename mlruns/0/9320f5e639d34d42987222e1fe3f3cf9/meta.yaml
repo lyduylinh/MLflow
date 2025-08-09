@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MSE/DevOps%2C%20DataOps%2C%20MLOps/Final%20Project%20MLOps/mlruns/0/9320f5e639d34d42987222e1fe3f3cf9/artifacts
+end_time: 1754536334289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9320f5e639d34d42987222e1fe3f3cf9
+run_name: tasteful-toad-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754536325139
+status: 3
+tags: []
+user_id: HP

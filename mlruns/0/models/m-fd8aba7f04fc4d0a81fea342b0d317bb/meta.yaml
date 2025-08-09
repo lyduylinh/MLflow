@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MSE/DevOps%2C%20DataOps%2C%20MLOps/Final%20Project%20MLOps/mlruns/0/models/m-fd8aba7f04fc4d0a81fea342b0d317bb/artifacts
+creation_timestamp: 1754536335610
+experiment_id: '0'
+last_updated_timestamp: 1754536343921
+model_id: m-fd8aba7f04fc4d0a81fea342b0d317bb
+model_type: null
+name: model
+source_run_id: 9cbdbe16af51475fa24fd59d62bd2c8d
+status: 2
+status_message: null

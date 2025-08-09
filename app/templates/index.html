@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dự đoán phân loại</title>
+  </head>
+  <body>
+    <h2>Nhập 20 đặc trưng để dự đoán</h2>
+    <form method="POST">
+      {% for i in range(20) %} Feature {{i}}:
+      <input type="text" name="feature_{{i}}" required /><br />
+      {% endfor %}
+      <br />
+      <input type="submit" value="Dự đoán" />
+    </form>
+
+    {% if prediction %}
+    <h3>Kết quả: {{ prediction }}</h3>
+    {% endif %}
+  </body>
+</html>
