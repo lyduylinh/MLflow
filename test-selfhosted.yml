@@ -1,0 +1,14 @@
+name: Test self-hosted
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  hello:
+    # nếu bạn chỉ cấu hình mặc định:
+    runs-on: self-hosted
+    # nếu lúc config bạn thêm labels (vd: windows,x64) thì dùng:
+    # runs-on: [self-hosted, windows, x64]
+    steps:
+      - run: echo "Hello from $env:DESKTOP-3E07PBM"
